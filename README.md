@@ -85,3 +85,7 @@ Download the selection
 ![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/10f8d7ca-26c7-40c3-86ac-2b56909b7e6a)
 
 Close and enjoy your movie! If you can't hear anything, right-click on top right of you desktop bar and choose ```HDMI``` as your output
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/1da5a223-03c4-4dbb-a684-7db1edd3b707)
+
+If you want, play with VLC media player to optimize sound, picture and subtitles. If it is still slugish, it is probably internet connection. If you can't hear anything, right-click on top right of you desktop bar and choose ```HDMI``` as your output and enjoy your movie in **full screen**! 
