@@ -1,7 +1,7 @@
 # **Welcome to Raspberry Pi Sluggish Video Fixer Manual**
 I have raspberry pi 4 B with **Raspbian OS**. Connected it to 55" TV via HDMI cable and connected it to WiFi. I opened chromium and went to watch yourube video. Everything runs perfectly until I go to full screen. Then it started running sluggish. Frames dropted, video and sound went unsynced and it was for every page I opened on web browser. I searched everywhere, tried multiple web browsers, enabled hardware acceleration.... Nothing worked. I tougth maybe it is pi problem. So I downloaded short video in 4k and launched it wiht VLC media player. The image and sound were perfect in full screen. That means it is browser problem. I tried sending data strait to vlc player from chromium and firefox but couldn't do it. The add-ons require some client-software installed but not for *arm architecture*. Now about the fix. For this one desktop is required!
 # **1. - Install stremio**
-[**Shivasiddharth**](https://github.com/shivasiddharth) managed to compile stremio for arm architecture. If you want you can follow his [**walktrough**](https://github.com/shivasiddharth/Stremio-RaspberryPi/blob/master/README.md) or stick here and after go there and start, provide feedback and give a star or positive review. First we need to download zip file that contains binaries. Download it from his site [**here**](https://github.com/shivasiddharth/Stremio-RaspberryPi/releases/tag/4.4.142). Move it from ```Downloads``` folder to ```~``` folder
+[**Shivasiddharth**](https://github.com/shivasiddharth) managed to compile stremio for arm architecture. If you want you can follow his [**walktrough**](https://github.com/shivasiddharth/Stremio-RaspberryPi/blob/master/README.md) or stick here and later please go there to buy him a coffe, provide feedback and give a star or positive review. First we need to download zip file that contains binaries. Download it from his site [**here**](https://github.com/shivasiddharth/Stremio-RaspberryPi/releases/tag/4.4.142). Move it from ```Downloads``` folder to ```~``` folder
 ```
 mv ${File path} ~
 ```
@@ -64,3 +64,23 @@ Now click on settings button and choose ```Watch on VLC```
 ![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/612404af-d6cb-4297-8faf-6047d4f610c6)
 
 The movie will be opened in VLC Media player and it should not be sluggish. Remember not to run it like me in RealVNC, but dirrectly on monitor! 
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/c06e6ab8-9ede-4f73-9166-a5f147ecc94b)
+
+# **3. - Add subtitles**
+You can add subtitles by clicking on View -> VLsub
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/ddc64263-6bf5-4adf-a634-e67b0c865c47)
+
+Click ```Search by hash```
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/01c4eff1-f41d-4344-adc8-5cc2b309fc63)
+
+Click on the result
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/0d16ed43-8be5-43e8-a295-60ed05a572ab)
+
+Download the selection
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/10f8d7ca-26c7-40c3-86ac-2b56909b7e6a)
+
