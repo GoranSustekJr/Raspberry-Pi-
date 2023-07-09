@@ -78,9 +78,10 @@ Click ```Search by hash```
 
 Click on the result
 
-![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/0d16ed43-8be5-43e8-a295-60ed05a572ab)
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/e0b34c34-3554-4ebb-8ee3-49023d883ff2)
 
 Download the selection
 
 ![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/10f8d7ca-26c7-40c3-86ac-2b56909b7e6a)
 
+Close and enjoy your movie! If you can't hear anything, right-click on top right of you desktop bar and choose ```HDMI``` as your output
