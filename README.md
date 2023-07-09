@@ -41,4 +41,26 @@ sudo apt-get install ./libfdk-aac1_0.1.6-1_arm64.deb ./stremio_x.x.xxx-1_arm64.d
 ```
 sudo apt-get install ./libfdk-aac1_0.1.6-1_armhf.deb ./stremio_x.x.xxx-1_armhf.deb -f   
 ```
-Change ```stremio_x.x.xxx-1_arm``` to your version. Now you should have it installed. Next add some add-ons.
+Change ```stremio_x.x.xxx-1_arm``` to your version. Now you should have it installed. Open it.
+# **2. - Configure stremio**
+Click on top right puzzle icon
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/e9c9fdc5-40e2-4897-a294-54e6186abfc8)
+
+Now add the ones you want. Go back to home page and choose the movie or series you like
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/7b41eb2f-9735-4947-b223-02087d37445f)
+
+Click to watch it
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/00a0aa4f-caaf-471d-a8fc-b8c3d157bf94)
+
+**When it starts, pauze it!**
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/98d0cf7f-6d5f-4bf8-a5b1-09a9e087fa85)
+
+Now click on settings button and choose ```Watch on VLC```
+
+![image](https://github.com/GoranSustekJr/Raspberry-Pi-Sluggish-Video-Fixer/assets/139004385/612404af-d6cb-4297-8faf-6047d4f610c6)
+
+The movie will be opened in VLC Media player and it should not be sluggish. Remember not to run it like me in RealVNC, but dirrectly on monitor! 
